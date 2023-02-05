@@ -1,13 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-void PrintSq(int n);
-{
-    int i = 1;
-    while(i <= n);
-    {
-        Console.Write(i + " ");
-        i++;   
-    }
-}
-Console.WriteLine("Input a number: ");
-int n = Convert.ToInt32(Console.ReadLine());
-PrintSq(n);
+int numberA = 5;
+int numberB = 7;
+
+int max = numberA;
+
+if (numberA > numberB) max = numberA;
+if (numberA < numberB) max = numberB;
+
+Console.WriteLine(max);
+
