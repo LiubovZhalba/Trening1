@@ -1,0 +1,15 @@
+D:\Люба\Обучение\Пайтон\Language\Trening\bin\Debug\net6.0\Trening.exe
+D:\Люба\Обучение\Пайтон\Language\Trening\bin\Debug\net6.0\Trening.deps.json
+D:\Люба\Обучение\Пайтон\Language\Trening\bin\Debug\net6.0\Trening.runtimeconfig.json
+D:\Люба\Обучение\Пайтон\Language\Trening\bin\Debug\net6.0\Trening.dll
+D:\Люба\Обучение\Пайтон\Language\Trening\bin\Debug\net6.0\ref\Trening.dll
+D:\Люба\Обучение\Пайтон\Language\Trening\bin\Debug\net6.0\Trening.pdb
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.csproj.AssemblyReference.cache
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.AssemblyInfoInputs.cache
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.AssemblyInfo.cs
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.csproj.CoreCompileInputs.cache
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.dll
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\ref\Trening.dll
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.pdb
+D:\Люба\Обучение\Пайтон\Language\Trening\obj\Debug\net6.0\Trening.genruntimeconfig.cache
